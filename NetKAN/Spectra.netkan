@@ -36,7 +36,6 @@
         { "name": "IndicatorLightsCommunityExtensions" },
         { "name": "KSPRC-CityLights"                   },
         { "name": "PlanetShine"                        },
-        { "name": "PlanetShine-Config-Default"         },
         { "name": "RealPlume-StockConfigs"             },
         { "name": "ReentryParticleEffect"              },
         { "name": "ReStock"                            },
